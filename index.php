@@ -1,0 +1,1 @@
+<? echo '<div style="background-color: red">';echo 'lol';echo '</div>'; ?>
